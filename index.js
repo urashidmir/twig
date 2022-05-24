@@ -1,5 +1,4 @@
 function groupArrayElements(array, n) {
-  let newArray = [];
   let chunks = [];
   let i = 0;
   if (!Number.isInteger(n)) {
